@@ -1,3 +1,9 @@
+![tetris](https://user-images.githubusercontent.com/44883733/63366896-ba2bb900-c348-11e9-97e0-a6fadb20c6f2.png)
+
+![tetris2](https://user-images.githubusercontent.com/44883733/63366903-bd26a980-c348-11e9-99c2-46f8e9cb580d.png)
+
+![tetris3](https://user-images.githubusercontent.com/44883733/63366905-bf890380-c348-11e9-9a08-a6781f51d26d.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
